@@ -26,7 +26,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,css,python)](https://skillicons.dev)
 
 <br><br>
 
